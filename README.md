@@ -39,7 +39,7 @@ pip install psutil watchdog
 ## 🚀 How to Run
 
 ```bash
-python edr_gui.py
+python edr.py
 ```
 
 > 🪪 Run as **Administrator (Windows)** or use `sudo` (Linux/Mac) for best results.
@@ -49,9 +49,7 @@ python edr_gui.py
 ## 📂 Project Structure
 
 ```
-edr_gui.py         # Main EDR agent with Tkinter GUI
-edr_gui_log.txt    # Auto-generated log file
-screenshot.png     # GUI screenshot (optional)
+edr.py         # Main EDR agent with Tkinter GUI
 README.md          # Project documentation
 ```
 
